@@ -23,6 +23,7 @@ The release versions of MCIP that are currently available on Git Hub include:
 For MCIP (v4.5) which was bundled with CMAQv5.3b2:
 
 git clone -b 5.3b2 https://github.com/USEPA/CMAQ.git CMAQ_REPO
+MCIP will be found under the CMAQ_REPO/PREP/mcip directory.
 
 For older versions of MCIP (v4.3 and v4.2):
 
