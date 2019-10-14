@@ -26,7 +26,5 @@ git clone -b 5.3b2 https://github.com/USEPA/CMAQ.git CMAQ_REPO
 
 For older versions of MCIP (v4.3 and v4.2):
 
-The MCIP Git archive is organized with each official public release stored as a branch on the main CMASCenter/MCIP repository. To check out code from the MCIP Git archive, specify the branch (i.e. version number) and issue the following command from within a working directory on your server:
-
 git clone -b 4.3 https://github.com/CMASCenter/MCIP.git
 
