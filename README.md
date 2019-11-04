@@ -16,7 +16,7 @@ MCIPv5.0 will be found under the CMAQ_REPO/PREP/mcip directory.
 The release versions of MCIP that are currently available on Git Hub include:
 
 * [MCIP v5.0 (August 2019) - bundled under CMAQv5.3](https://github.com/USEPA/CMAQ)
-* [MCIP v4.5 (April 2017) - bundled under CMAQv5.3b2](https://github.com/USEPA/CMAQ/tree/5.3.b2)
+* [MCIP v4.5 (October 2018) - bundled under CMAQv5.3b2](https://github.com/USEPA/CMAQ/tree/CMAQv5.3.b2_19Oct2018)
 * [MCIP v4.3 (November 2015)](https://github.com/CMASCenter/MCIP/tree/4.3)
 * [MCIP v4.2 (Dec 2013)](https://github.com/CMASCenter/MCIP/tree/4.2)
 
